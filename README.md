@@ -10,9 +10,11 @@ The Vendor Management System is a NestJS application designed to manage vendors 
   
   git clone https://github.com/your-username/vendor-management-system.git
    cd vendor-management-system
+   
 2. Install Dependencies
-    npm install 
-3. Running the app
+    npm install
+   
+4. Running the app
     npm run start
 ## API Endpoints
 1. Create a Purchase Order
